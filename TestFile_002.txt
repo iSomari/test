@@ -1,3 +1,4 @@
 File added to test movement of github issue mentions and label changes.
 
 - Checking commit via gerrit
+- Checking Fixed via gerrit
