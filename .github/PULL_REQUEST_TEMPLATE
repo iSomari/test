@@ -1,0 +1,7 @@
+*GlusterFS does not follow the [GitHub: Fork & pull](https://help.github.com/articles/using-pull-requests/) workflow but uses [Gerrit](http://review.gluster.org) for code review.*
+
+Hence, this GitHub repo is a read-only mirror.
+
+Simplified development guidelines are detailed in [Development Workflow](https://gluster.readthedocs.io/en/latest/Developer-guide/Simplified-Development-Workflow).
+
+For more information about contributing to GlusterFS, please follow [Contributing to GlusterFS community](https://gluster.readthedocs.io/en/latest/Developer-guide/Developers-Index/#contributing-to-the-gluster-community).
